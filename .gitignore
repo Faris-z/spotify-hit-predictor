@@ -47,3 +47,6 @@ desktop.ini
 logs/
 outputs/
 runs/
+
+# CatBoost training logs
+catboost_info/
